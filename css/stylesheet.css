@@ -1,0 +1,77 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    background-color:#e6e6e9;
+}
+.home {
+   
+    width:4em;
+}
+input{
+    width:10em;
+    display: inline-block;
+}
+
+
+.nav{
+    margin: 0 0 1em 0;
+    min-width: 100%;
+   
+    
+}
+ul {
+    list-style-type: none;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li  {
+    text-align: center;
+    display: inline-block;
+    color: #245695;
+    border-bottom-style: inset;
+    border-color: grey;
+    text-align: center;
+    padding: 10px 50px;
+    text-decoration: none;
+}
+
+
+.verhaal{
+    height: 10%;
+    width: 10%;
+    border-radius: 2em;
+}
+main{
+    background-color: #ffc917;
+    padding: 7em;
+    margin:1em;
+    
+}
+.search{
+   border-bottom-style: none;
+}
+input[type="text"]{
+    display: block;
+}
+input[type="password"]{
+    display: block;
+}
+.login{
+    width: 30em;
+
+}
+.email{
+    width: 30em;
+}
+fieldset {
+    padding: 1em;
+    margin:1em;
+}
+button {
+    color:white;
+    background-color:#0079d3;
+    padding: 0.7em 2em
+}
